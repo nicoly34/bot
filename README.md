@@ -1,2 +1,2 @@
 # bot-o-botudo-html-css-simples
-Efeiyo simples em html no css
+Efeitosimples em html no css
